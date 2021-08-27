@@ -1,1 +1,1 @@
-"# Java_Lab_Assigment_1" 
+"# Java_Lab_Assigment" 
